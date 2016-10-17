@@ -1,5 +1,6 @@
 {
   "name": "node-sass-test",
+  "private": true,
   "version": "1.0.0",
   "description": "Basic server using `node-sass`",
   "scripts": {
